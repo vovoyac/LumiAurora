@@ -1,14 +1,14 @@
 /datum/faction/zeng_hu
 	name = "Zeng-Hu Pharmaceuticals"
 	description = {"<p>
-	Zeng-Hu Pharmaceuticals, born of a merger of two major biotech companies on
-	Earth in 2032, was the first to successfully develop cryogenics in the 21st
-	century for the purposes of space travel. This development, crucial to
-	interstellar colonization, helped propel them to their current position as the
-	largest pharmaceutical and medical corporation in the Orion Spur. In more recent
-	years, they were also the first mega-corporation to partner with the newly-discovered
-	Skrell, working closely with this alien species to pioneer cloning, a once
-	controversial field that is now more accepted today.
+'Zeng-Hu Pharmaceuticals', были созданы в результате слияние двух больших
+биотехнических компаний на земле в 2032-ом году, они стали первыми кто успешно
+разработал криогенные технологии для космических путешествий. Это разработка,
+стала инициатором начала межзвездной колонизации, помогла присвоить им статус
+самой крупной фармакологической и медицинской корпорацией в Рукаве Ориона.
+В недавнем времени, они также стали первой мега-корпорацией в партнерстве с
+ново обнаруженной 'Skrell', работая вместе с инопланетной расой для изобретения
+клонирования, когда-то табуированной областью которая стала более признанной сегодня.
 	</p>"}
 
 	departments = {"Medical<br>Research"}

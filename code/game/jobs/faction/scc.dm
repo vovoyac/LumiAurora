@@ -1,13 +1,17 @@
 /datum/faction/scc
 	name = "Stellar Corporate Conglomerate"
 	description = {"<p>
-	The Stellar Corporate Conglomerate (SCC) was formed at the height of corporate power in the galaxy,
-	originally to secure Tau Ceti assets during the Second Solarian Incursion.
-	Chainlink now exercises undisputed economic dominance over the Orion Spur,
-	and is now willing and eager to supersede any and all higher authority placed before it.
-	Cooperation has been deemed essential ever since Einstein Engines resurfaced due to the emerging prominence of warp travel.
-	They've remained in a shaky peace, puppeteered to carry out the engimatic whims of the Trasen family.
-	Of course, this doesn't stop their greed for power and glory - they're just corporations, after all.
+Звездный Корпоративный Конгломерат (ЗКК) был основан на пике сил корпоратов в галактике,
+изначально для защиты имущества Tau Ceti во времена Второго Звездного Вторжения.
+Чэйнлинк теперь владеет непоколебимой экономической доминанцией над Рукавом Орина,
+и жаждет сместить всех высших властей уполномоченных до этого.
+Кооперация считалась важной со времен возвращения Двигателей Эйнштейна из-за растущей
+известности передвижения используя варп двигатели.
+Они остались в хрупком мире, используя манипуляции для исполнения загадочных прихотей семьи Трэйзен.
+Конечно, это не остановит их от жажды власти и признания - всё-таки они просто корпораты.
+
+
+
 	</p>"}
 	departments = {"Command<br>Equipment"}
 	title_suffix = "SCC"
